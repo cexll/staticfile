@@ -1,0 +1,2 @@
+# staticfile
+static resource file
